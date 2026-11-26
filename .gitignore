@@ -1,2 +1,4 @@
 shots/
 __pycache__/
+build.py
+config.json
